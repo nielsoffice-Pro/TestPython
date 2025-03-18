@@ -1,6 +1,8 @@
 # TestPython
 Python Test
 
+Make sure you are in directory 
+``` python3 -m pip install pytest ``` | ``` python3 -m pip list ```
 
 <br> Mac OS users:
 <br> ``` python3 -m pip install --user --upgrade pip setuptools wheel ```
